@@ -3,7 +3,6 @@
 > Run predefined tasks whenever watched file patterns are added, changed or deleted.
 
 
-
 ## Getting Started
 Thiss plugin requires Grunt `~0.4.0`
 
